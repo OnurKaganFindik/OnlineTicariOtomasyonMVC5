@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace OnlineTicariOtomasyon.Models.Classes
+﻿namespace OnlineTicariOtomasyon.Models.Classes
 {
     public class InvoiceItem
     {
